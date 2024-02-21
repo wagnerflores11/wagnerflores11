@@ -20,6 +20,10 @@ I have excellent design with dashboards & coding skills, as well as an ability t
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+48+996019100&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+48+996019100&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnerflores11@gmail.com)](mailto:wagnerflores11@gmail.com)
 
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="wagner-flores-sc" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wagner-flores-sc?trk=profile-badge">Wagner Flores</a></div>
+              
+
 - Thanks for visiting. 
 
 - Enjoy it!! o/
